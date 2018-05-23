@@ -19,37 +19,34 @@
 },
 {
     "gender": "male",
-    "name":
-    {
+    "name": {
         "title": "mr",
-        "first": "romain",
-        "last": "hoogmoed"
+        "first": "dominic",
+        "last": "bouchard"
     },
-    "location":
-    {
-        "street": "1861 jan pieterszoon coenstraat",
-        "city": "maasdriel",
-        "state": "zeeland",
-        "postcode": 69217
+    "location": {
+        "street": "7985 disputed rd",
+        "city": "belmont",
+        "state": "nunavut",
+        "postcode": 37717
     },
-    "email": "romain.hoogmoed@example.com",
-    "dob": "1983-07-14 07:29:45",
+    "email": "dominic.bouchard@example.com",
+    "dob": "1969-05-21 19:12:25"
 },
 {
     "gender": "male",
-    "name":
-    {
+    "name": {
         "title": "mr",
-        "first": "romain",
-        "last": "hoogmoed"
+        "first": "dominic",
+        "last": "bouchard"
     },
-    "location":
-    {
-        "street": "1861 jan pieterszoon coenstraat",
-        "city": "maasdriel",
-        "state": "zeeland",
-        "postcode": 69217
+    "location": {
+        "street": "7985 disputed rd",
+        "city": "belmont",
+        "state": "nunavut",
+        "postcode": 37717
     },
-    "email": "romain.hoogmoed@example.com",
-    "dob": "1983-07-14 07:29:45",
-}]
+    "email": "dominic.bouchard@example.com",
+    "dob": "1969-05-21 19:12:25"
+}
+]
