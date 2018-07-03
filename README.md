@@ -11,5 +11,6 @@ How to run:
   php artisan serve
   npm run dev
   laravel-echo-server start
+  php artisan queue:work
   ```
   Then go to `http://localhost:8000/chat`, open another tab to test. have fun :)
